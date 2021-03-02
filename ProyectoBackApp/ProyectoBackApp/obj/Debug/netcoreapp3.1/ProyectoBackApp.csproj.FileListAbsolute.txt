@@ -1,0 +1,13 @@
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\bin\Debug\netcoreapp3.1\ProyectoBackApp.exe
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\bin\Debug\netcoreapp3.1\ProyectoBackApp.deps.json
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\bin\Debug\netcoreapp3.1\ProyectoBackApp.runtimeconfig.json
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\bin\Debug\netcoreapp3.1\ProyectoBackApp.runtimeconfig.dev.json
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\bin\Debug\netcoreapp3.1\ProyectoBackApp.dll
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\bin\Debug\netcoreapp3.1\ProyectoBackApp.pdb
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\obj\Debug\netcoreapp3.1\ProyectoBackApp.csprojAssemblyReference.cache
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\obj\Debug\netcoreapp3.1\ProyectoBackApp.AssemblyInfoInputs.cache
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\obj\Debug\netcoreapp3.1\ProyectoBackApp.AssemblyInfo.cs
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\obj\Debug\netcoreapp3.1\ProyectoBackApp.csproj.CoreCompileInputs.cache
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\obj\Debug\netcoreapp3.1\ProyectoBackApp.dll
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\obj\Debug\netcoreapp3.1\ProyectoBackApp.pdb
+C:\Users\Daian\source\repos\ProyectoBackApp\ProyectoBackApp\obj\Debug\netcoreapp3.1\ProyectoBackApp.genruntimeconfig.cache

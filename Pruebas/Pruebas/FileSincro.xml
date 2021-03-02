@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<root>
+	<globalConfiguration>
+        <PROPERTY Name="Language">Spanish</PROPERTY>
+        <forzarCierre>0</forzarCierre>
+        <Path>D:\Backup\</Path>
+        <USBPath>F:\Backup\</USBPath>
+        <BackupToUsb>1</BackupToUsb>
+        <Hosts>
+            <Host>
+                <nombre>origen</nombre>
+                <direccion>localhost</direccion>
+                <unidad>X</unidad>
+                <prioridad>0</prioridad>
+            </Host>
+
+            <Host>
+                <nombre>Destino Duplicado 1</nombre>
+                <direccion>localhost</direccion>
+                <unidad>Y</unidad>
+                <prioridad>1</prioridad>
+            </Host>
+
+            <Host>
+                <nombre>Destino Duplicado 2</nombre>
+                <direccion>localhost</direccion>
+                <unidad>Z</unidad>
+                <prioridad>1</prioridad>
+            </Host>
+        </Hosts>
+
+</globalConfiguration> 
+
+        <Backups>
+            <Backup>
+                <nombreBackup>Backup User</nombreBackup>
+                <ejecutar>1</ejecutar>
+                <forzarCierre>1</forzarCierre>
+                <replicacion>0</replicacion>
+                <destino>User</destino>
+                <origen>Repositorio</origen>
+            </Backup>
+
+            <Backup>
+                <nombreBackup>Backup AD</nombreBackup>
+                <ejecutar>1</ejecutar>
+                <replicacion>0</replicacion>
+                <destino>User</destino>
+                <origen>AD</origen>
+            </Backup>
+
+            <Backup>
+                <nombreBackup>Backup WSFE</nombreBackup>
+                <ejecutar>1</ejecutar>
+                <replicacion>0</replicacion>
+                <destino>User</destino>
+                <origen>WSFE</origen>
+            </Backup>
+        </Backups>
+
+</root>
